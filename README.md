@@ -17,3 +17,5 @@ A custom 9-key macropad built for Hack Club Blueprint.
 
 ## OLED reactions
 Custom ASCII art for every key action!
+<img width="982" height="489" alt="Screenshot 2026-03-31 225849" src="https://github.com/user-attachments/assets/e1ba76e2-33f9-487c-b21a-20d6331d6376" /><img width="751" height="798" alt="Screenshot 2026-03-31 225833" src="https://github.com/user-attachments/assets/cfae6271-95d7-4b7a-a8c1-5a2b21ee0b7c" />
+
